@@ -8,7 +8,6 @@
   ## Table of Contents 
 
   - [Screenshot](#screenshot)
-  - [Video Walkthrough](#video)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
@@ -17,10 +16,6 @@
   ## Screenshot
 
 ![A screenshot of the application in the terminal.](screenshot.png)
-
-  ## Video
-
-[![Watch the video walkthrough](https://www.loom.com/share/92016539e8774327be4a0584edfbba6d?sid=30d41e40-df27-41fd-b531-58ce1f1c5c50)
   
   ## Installation 
   
