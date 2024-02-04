@@ -34,8 +34,7 @@
   No tests required.
   ```
   
-  
-  ---
+  ## Questions 
   
   For any inquiries or issues, please contact through following channels:
   
